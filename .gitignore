@@ -1,0 +1,4 @@
+/env
+.env
+/rentify/__pycache__
+*.pyc

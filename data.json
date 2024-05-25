@@ -1,0 +1,362 @@
+[
+    {
+        "model": "app.Property",
+        "pk": 1,
+        "fields": {
+            "owner": 1,
+            "title": "Luxury Apartment in New York",
+            "description": "A beautiful luxury apartment in the heart of New York City.",
+            "place": "New York, NY",
+            "area": 1200,
+            "bedrooms": 3,
+            "bathrooms": 2,
+            "nearby_hospitals": "NYC Health + Hospitals",
+            "nearby_colleges": "New York University",
+            "image": "property_images/demo.jpg",
+            "created_at": "2023-05-01T12:00:00Z",
+            "updated_at": "2024-05-01T12:00:00Z"
+        }
+    },
+    {
+        "model": "app.Property",
+        "pk": 2,
+        "fields": {
+            "owner": 1,
+            "title": "Cozy Condo in Brooklyn",
+            "description": "A cozy condo in a quiet neighborhood in Brooklyn.",
+            "place": "Brooklyn, NY",
+            "area": 800,
+            "bedrooms": 2,
+            "bathrooms": 1,
+            "nearby_hospitals": "Brooklyn Hospital Center",
+            "nearby_colleges": "Brooklyn College",
+            "image": "property_images/demo.jpg",
+            "created_at": "2023-06-01T12:00:00Z",
+            "updated_at": "2024-06-01T12:00:00Z"
+        }
+    },
+    {
+        "model": "app.Property",
+        "pk": 3,
+        "fields": {
+            "owner": 1,
+            "title": "Spacious House in Queens",
+            "description": "A spacious house with a large backyard in Queens.",
+            "place": "Queens, NY",
+            "area": 1500,
+            "bedrooms": 4,
+            "bathrooms": 3,
+            "nearby_hospitals": "Queens Hospital Center",
+            "nearby_colleges": "Queens College",
+            "image": "property_images/demo.jpg",
+            "created_at": "2023-07-01T12:00:00Z",
+            "updated_at": "2024-07-01T12:00:00Z"
+        }
+    },
+    {
+        "model": "app.Property",
+        "pk": 4,
+        "fields": {
+            "owner": 1,
+            "title": "Modern Loft in Downtown LA",
+            "description": "A modern loft in downtown Los Angeles with city views.",
+            "place": "Los Angeles, CA",
+            "area": 1000,
+            "bedrooms": 2,
+            "bathrooms": 2,
+            "nearby_hospitals": "Good Samaritan Hospital",
+            "nearby_colleges": "University of Southern California",
+            "image": "property_images/demo.jpg",
+            "created_at": "2023-08-01T12:00:00Z",
+            "updated_at": "2024-08-01T12:00:00Z"
+        }
+    },
+    {
+        "model": "app.Property",
+        "pk": 5,
+        "fields": {
+            "owner": 1,
+            "title": "Charming Bungalow in Beverly Hills",
+            "description": "A charming bungalow in the prestigious Beverly Hills area.",
+            "place": "Beverly Hills, CA",
+            "area": 1100,
+            "bedrooms": 3,
+            "bathrooms": 2,
+            "nearby_hospitals": "Cedars-Sinai Medical Center",
+            "nearby_colleges": "UCLA",
+            "image": "property_images/demo.jpg",
+            "created_at": "2023-09-01T12:00:00Z",
+            "updated_at": "2024-09-01T12:00:00Z"
+        }
+    },
+    {
+        "model": "app.Property",
+        "pk": 6,
+        "fields": {
+            "owner": 1,
+            "title": "Beach House in Santa Monica",
+            "description": "A beautiful beach house with ocean views in Santa Monica.",
+            "place": "Santa Monica, CA",
+            "area": 1400,
+            "bedrooms": 4,
+            "bathrooms": 3,
+            "nearby_hospitals": "Providence Saint John's Health Center",
+            "nearby_colleges": "Santa Monica College",
+            "image": "property_images/demo.jpg",
+            "created_at": "2023-10-01T12:00:00Z",
+            "updated_at": "2024-10-01T12:00:00Z"
+        }
+    },
+    {
+        "model": "app.Property",
+        "pk": 7,
+        "fields": {
+            "owner": 1,
+            "title": "Penthouse in Chicago",
+            "description": "A luxurious penthouse with panoramic city views in Chicago.",
+            "place": "Chicago, IL",
+            "area": 1600,
+            "bedrooms": 3,
+            "bathrooms": 3,
+            "nearby_hospitals": "Northwestern Memorial Hospital",
+            "nearby_colleges": "University of Chicago",
+            "image": "property_images/demo.jpg",
+            "created_at": "2023-11-01T12:00:00Z",
+            "updated_at": "2024-11-01T12:00:00Z"
+        }
+    },
+    {
+        "model": "app.Property",
+        "pk": 8,
+        "fields": {
+            "owner": 1,
+            "title": "Historic Home in Lincoln Park",
+            "description": "A historic home in the beautiful Lincoln Park neighborhood.",
+            "place": "Chicago, IL",
+            "area": 1300,
+            "bedrooms": 4,
+            "bathrooms": 2,
+            "nearby_hospitals": "Presence Saint Joseph Hospital",
+            "nearby_colleges": "DePaul University",
+            "image": "property_images/demo.jpg",
+            "created_at": "2023-12-01T12:00:00Z",
+            "updated_at": "2024-12-01T12:00:00Z"
+        }
+    },
+    {
+        "model": "app.Property",
+        "pk": 9,
+        "fields": {
+            "owner": 1,
+            "title": "Modern Condo in The Loop",
+            "description": "A modern condo in the heart of The Loop, Chicago.",
+            "place": "Chicago, IL",
+            "area": 900,
+            "bedrooms": 2,
+            "bathrooms": 1,
+            "nearby_hospitals": "Rush University Medical Center",
+            "nearby_colleges": "Columbia College Chicago",
+            "image": "property_images/demo.jpg",
+            "created_at": "2023-12-01T12:00:00Z",
+            "updated_at": "2024-12-01T12:00:00Z"
+        }
+    },
+    {
+        "model": "app.Property",
+        "pk": 10,
+        "fields": {
+            "owner": 1,
+            "title": "Cozy Studio Apartment in Downtown",
+            "description": "A cozy studio apartment in the bustling downtown area.",
+            "place": "New York, NY",
+            "area": 500,
+            "bedrooms": 1,
+            "bathrooms": 1,
+            "nearby_hospitals": "Mount Sinai Hospital",
+            "nearby_colleges": "New York Institute of Technology",
+            "image": "property_images/demo.jpg",
+            "created_at": "2023-10-15T10:00:00Z",
+            "updated_at": "2024-10-15T10:00:00Z"
+        }
+    },
+    {
+        "model": "app.Property",
+        "pk": 11,
+        "fields": {
+            "owner": 1,
+            "title": "Spacious Family Home in Suburban Area",
+            "description": "A spacious family home with a large backyard in a peaceful suburban neighborhood.",
+            "place": "Houston, TX",
+            "area": 2000,
+            "bedrooms": 4,
+            "bathrooms": 3,
+            "nearby_hospitals": "Memorial Hermann Memorial City Medical Center",
+            "nearby_colleges": "University of Houston",
+            "image": "property_images/demo.jpg",
+            "created_at": "2023-11-20T09:00:00Z",
+            "updated_at": "2024-11-20T09:00:00Z"
+        }
+    },
+    {
+        "model": "app.Property",
+        "pk": 12,
+        "fields": {
+            "owner": 1,
+            "title": "Modern Loft with City Views",
+            "description": "A modern loft with stunning city views and contemporary design.",
+            "place": "Houston, TX",
+            "area": 1200,
+            "bedrooms": 2,
+            "bathrooms": 2,
+            "nearby_hospitals": "Texas Medical Center",
+            "nearby_colleges": "Rice University",
+            "image": "property_images/demo.jpg",
+            "created_at": "2023-12-05T08:00:00Z",
+            "updated_at": "2024-12-05T08:00:00Z"
+        }
+    },
+    {
+        "model": "app.Property",
+        "pk": 13,
+        "fields": {
+            "owner": 1,
+            "title": "Beachfront Villa in Malibu",
+            "description": "A luxurious beachfront villa with breathtaking ocean views in Malibu.",
+            "place": "Malibu, CA",
+            "area": 3000,
+            "bedrooms": 5,
+            "bathrooms": 4,
+            "nearby_hospitals": "Santa Monica-UCLA Medical Center",
+            "nearby_colleges": "Pepperdine University",
+            "image": "property_images/demo.jpg",
+            "created_at": "2024-01-10T11:00:00Z",
+            "updated_at": "2025-01-10T11:00:00Z"
+        }
+    },
+    {
+        "model": "app.Property",
+        "pk": 14,
+        "fields": {
+            "owner": 1,
+            "title": "Rustic Cabin Retreat in Big Bear",
+            "description": "A cozy rustic cabin retreat nestled in the mountains of Big Bear.",
+            "place": "Big Bear, CA",
+            "area": 800,
+            "bedrooms": 2,
+            "bathrooms": 1,
+            "nearby_hospitals": "Bear Valley Community Hospital",
+            "nearby_colleges": "Crafton Hills College",
+            "image": "property_images/demo.jpg",
+            "created_at": "2024-02-15T12:00:00Z",
+            "updated_at": "2025-02-15T12:00:00Z"
+        }
+    },
+    {
+        "model": "app.Property",
+        "pk": 15,
+        "fields": {
+            "owner": 1,
+            "title": "Mountain View Chalet in Lake Tahoe",
+            "description": "A charming chalet with stunning mountain views in Lake Tahoe.",
+            "place": "Lake Tahoe, CA",
+            "area": 1500,
+            "bedrooms": 3,
+            "bathrooms": 2,
+            "nearby_hospitals": "Barton Memorial Hospital",
+            "nearby_colleges": "Sierra Nevada College",
+            "image": "property_images/demo.jpg",
+            "created_at": "2024-03-20T13:00:00Z",
+            "updated_at": "2025-03-20T13:00:00Z"
+        }
+    },
+    {
+        "model": "app.Property",
+        "pk": 16,
+        "fields": {
+            "owner": 1,
+            "title": "Downtown Penthouse with Rooftop Terrace",
+            "description": "A luxurious penthouse with a private rooftop terrace in downtown New York City.",
+            "place": "New York, NY",
+            "area": 1800,
+            "bedrooms": 3,
+            "bathrooms": 3,
+            "nearby_hospitals": "NYU Langone Medical Center",
+            "nearby_colleges": "CUNY",
+            "image": "property_images/demo.jpg",
+            "created_at": "2024-04-25T14:00:00Z",
+            "updated_at": "2025-04-25T14:00:00Z"
+        }
+    },
+    {
+        "model": "app.Property",
+        "pk": 17,
+        "fields": {
+            "owner": 1,
+            "title": "Historic Brownstone in Brooklyn Heights",
+            "description": "A historic brownstone with classic charm and modern amenities in Brooklyn Heights.",
+            "place": "Brooklyn, NY",
+            "area": 2500,
+            "bedrooms": 5,
+            "bathrooms": 3,
+            "nearby_hospitals": "Brooklyn Methodist Hospital",
+            "nearby_colleges": "Long Island University",
+            "image": "property_images/demo.jpg",
+            "created_at": "2024-05-30T15:00:00Z",
+            "updated_at": "2025-05-30T15:00:00Z"
+        }
+    },
+    {
+        "model": "app.Property",
+        "pk": 18,
+        "fields": {
+            "owner": 1,
+            "title": "Modern Townhouse in River North",
+            "description": "A sleek and modern townhouse in the vibrant River North neighborhood of Chicago.",
+            "place": "Chicago, IL",
+            "area": 1600,
+            "bedrooms": 4,
+            "bathrooms": 3,
+            "nearby_hospitals": "Northwestern Memorial Hospital",
+            "nearby_colleges": "DePaul University",
+            "image": "property_images/demo.jpg",
+            "created_at": "2024-06-10T16:00:00Z",
+            "updated_at": "2025-06-10T16:00:00Z"
+        }
+    },
+    {
+        "model": "app.Property",
+        "pk": 19,
+        "fields": {
+            "owner": 1,
+            "title": "Lakefront Cottage in Lake Geneva",
+            "description": "A charming lakefront cottage with stunning views in Lake Geneva.",
+            "place": "Lake Geneva, WI",
+            "area": 1200,
+            "bedrooms": 3,
+            "bathrooms": 2,
+            "nearby_hospitals": "Aurora Lakeland Medical Center",
+            "nearby_colleges": "University of Wisconsin-Whitewater",
+            "image": "property_images/demo.jpg",
+            "created_at": "2024-07-20T17:00:00Z",
+            "updated_at": "2025-07-20T17:00:00Z"
+        }
+    },
+    {
+        "model": "app.Property",
+        "pk": 20,
+        "fields": {
+            "owner": 1,
+            "title": "Ski-in/Ski-out Chalet in Aspen",
+            "description": "A luxurious ski-in/ski-out chalet with mountain views in Aspen.",
+            "place": "Aspen, CO",
+            "area": 2000,
+            "bedrooms": 4,
+            "bathrooms": 4,
+            "nearby_hospitals": "Aspen Valley Hospital",
+            "nearby_colleges": "Aspen College",
+            "image": "property_images/demo.jpg",
+            "created_at": "2024-08-05T18:00:00Z",
+            "updated_at": "2025-08-05T18:00:00Z"
+        }
+    }
+]
