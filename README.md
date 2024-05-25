@@ -1,8 +1,13 @@
-# Rentify: Where Renting Meets Simplicity
+# [Rentify: Where Renting Meets Simplicity](https://rentify-decode.onrender.com/)
 
 ## Introduction
 
 Rentify is a cutting-edge web application designed to simplify the rental process for both property owners and prospective tenants. As the world gradually recovers from the pandemic, the demand for real estate is on the rise, making it challenging to find suitable rental properties, particularly in densely populated cities with numerous IT offices. Rentify addresses this issue by providing a platform that connects property owners and tenants efficiently, ensuring a seamless rental experience.
+
+### Link of the Project
+
+You can access the live Rentify application via the following link:
+[Rentify Live Application](https://rentify-decode.onrender.com/)
 
 ## Preview
 
@@ -20,10 +25,7 @@ Rentify is a cutting-edge web application designed to simplify the rental proces
 4. ### Signup.html:
    [![Project Preview](./media/property_images/signup.png)](https://rentify-decode.onrender.com/)
 
-### Link of the Project
 
-You can access the live Rentify application via the following link:
-[Rentify Live Application](https://rentify-decode.onrender.com/)
 
 ## Tech Stack Used
 
