@@ -4,9 +4,12 @@
 
 Rentify is a cutting-edge web application designed to simplify the rental process for both property owners and prospective tenants. As the world gradually recovers from the pandemic, the demand for real estate is on the rise, making it challenging to find suitable rental properties, particularly in densely populated cities with numerous IT offices. Rentify addresses this issue by providing a platform that connects property owners and tenants efficiently, ensuring a seamless rental experience.
 
-### Link of the Project
+## Link of the Project
 
-You can access the live Rentify application via the following link: [**Rentify Live Application**](https://rentify-decode.onrender.com/)
+- ### You can access the live Rentify application via the following link: [**Rentify Live Application**](https://rentify-decode.onrender.com/)
+
+
+- ### Github Repository Link of this Project: [Github](https://github.com/devnamdev2003/Rentify)
 
 ## Preview
 
