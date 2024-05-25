@@ -6,8 +6,7 @@ Rentify is a cutting-edge web application designed to simplify the rental proces
 
 ### Link of the Project
 
-You can access the live Rentify application via the following link:
-[Rentify Live Application](https://rentify-decode.onrender.com/)
+You can access the live Rentify application via the following link: [**Rentify Live Application**](https://rentify-decode.onrender.com/)
 
 ## Preview
 
