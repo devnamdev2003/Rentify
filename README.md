@@ -8,17 +8,17 @@ Rentify is a cutting-edge web application designed to simplify the rental proces
 
 1. ### Home.html:
 
-   [![Project Preview](https://rentify-decode.onrender.com/media/property_images/home.png)](https://rentify-decode.onrender.com/)
+   [![Project Preview](./media/property_images/home.png)](https://rentify-decode.onrender.com/)
 
 2. ### list.html:
-   [![Project Preview](https://rentify-decode.onrender.com/media/property_images/property.png)](https://rentify-decode.onrender.com/)
+   [![Project Preview](./media/property_images/property.png)](https://rentify-decode.onrender.com/)
 
 3. ### login.html:
 
-   [![Project Preview](https://rentify-decode.onrender.com/media/property_images/login.png)](https://rentify-decode.onrender.com/)
+   [![Project Preview](./media/property_images/login.png)](https://rentify-decode.onrender.com/)
 
 4. ### Signup.html:
-   [![Project Preview](https://rentify-decode.onrender.com/media/property_images/signup.png)](https://rentify-decode.onrender.com/)
+   [![Project Preview](./media/property_images/signup.png)](https://rentify-decode.onrender.com/)
 
 ### Link of the Project
 
